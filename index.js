@@ -7,8 +7,8 @@ const { isEqual, uniqWith, sortBy } = require('lodash');
 (async () => {
 
 // Array of program ids to scrape
-// e.g. https://www.bbc.co.uk/programmes/b01fm4ss/
-const PROGRAMS = ['b01fm4ss']
+// e.g. https://www.bbc.co.uk/programmes/m002844t
+const PROGRAMS = ['m002844t']
 const FILENAME = 'history.csv'
 
 const getEpisodes = async (programID) => {

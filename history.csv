@@ -1,4 +1,42 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
+James Blake,Retrograde,,Atlas,0,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Droogie OtisBoldy James,Everything DesignerBoldy James,,Madlib Invazion,1,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Sonic Youth,Kool Thing,,Geffen,2,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Billy Nomates,Plans,,Invada,3,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+KNEECAP,Sick In The Head,,Heavenly,4,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Panic Shack,Gok Wan,,Brace Yourself Records,5,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Slam,Positive Education,,Soma Recordings Ltd,6,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Goldfrapp,Train,,MUTE RECORDS,7,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Foals,My Number,,Transgressive Records,8,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Pixies,Debaser,,4 A.D.,9,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Florence + The Machine,You've Got The Love,CD SINGLE,MOSHI MOSHI,10,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Orchestral Manoeuvres in the Dark,Julia's Song,,,11,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Vampire Weekend,A-Punk,CD SINGLE,XL,12,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Lambrini Girls,No Homo,,City Slang,13,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+K‐Klass,Let Me Show You,,Deconstruction,14,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Kindness,That's Alright,,Polydor,15,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Todd Terje,Oh Joy,It's Album Time,Olsen Records,16,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Talking Heads,Once In A Lifetime,,EMI,17,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+David Bowie,Boys Keep Swinging,,EMI,18,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+The Linda Lindas,Oh!,,Epitaph,19,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Wet Leg,catch these fists,,Domino,20,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Sufjan Stevens,Chicago,,Asthmatic Kitty,21,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+CMAT,Running / Planning,,AWAL,22,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Lorde,Green Light (Chromeo Remix),Green Light (Chromeo Remix),Universal Music New Zealand Limited,23,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Flying Lotus,Garmonbozia,,Warp Records,24,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Loyle Carner,All I Need,,Island / EMI,25,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Hole,Celebrity Skin,,Geffen,26,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Big Thief,Vampire Empire,,4AD,27,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Jacob Alon,Don't Fall Asleep,,Island Records,28,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Holger CzukayMichael KaroliJaki LiebezeitIrmin SchmidtCan,Vitamin C,Ege Bamyasi,Spoon Records,29,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Emma‐Jean Thackray,Maybe Nowhere,,Brownswood Recordings,30,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Japan,Life In Tokyo,The Edge Of The Eighties  (Various Artists),Sony BMG,31,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+The Horrors,LA Runaway,,Fiction,32,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+The Orchestra (For Now),"Amsterdam (6 Music Session, 25 March 2025)",,,33,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Girl Group,Yay! Saturday!,,Boys Boys Boys,34,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+The Hives,Enough Is Enough,,Play It Again Sam,35,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+Myd,The Wizard,,Ed Banger Records,36,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
+TV on the Radio,Dancing Choose,CD SINGLE,4 A.D.,37,Nick Grimshaw,David Oyelowo,2025-04-17T07:00:00+01:00
 Arctic Monkeys,Crying Lightning,CD SINGLE,DOMINO,0,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-16T07:00:00+01:00
 jasmine.4.t,Tall Girl,,Saddest Factory,1,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-16T07:00:00+01:00
 Alex Reece,Feel The Sunshine,,Universal,2,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-16T07:00:00+01:00
@@ -344,6 +382,8 @@ OrbitalTilda Swinton,DeepestTilda Swinton,,London Records,32,Nick Grimshaw,Richa
 Derya YıldırımGrup Şimşek,Ceylan,,Big Crown,33,Nick Grimshaw,Richard E. Grant,2025-04-04T07:00:00+01:00
 YaejiE Wata,PondeggiE Wata,,XL rECORDS,34,Nick Grimshaw,Richard E. Grant,2025-04-04T07:00:00+01:00
 Inner City,Big Fun,PARADISE,10 Records,35,Nick Grimshaw,Richard E. Grant,2025-04-04T07:00:00+01:00
+The Smashing Pumpkins,1979,,HUT MUSIC,24,Nick Grimshaw,Bowen Yang,2025-04-15T07:00:00+01:00
+Cassius,Feeling For You,1999,Virgin,19,Nick Grimshaw,George MacKay,2025-04-08T07:00:00+01:00
 Unknown Mortal Orchestra,Swim and Sleep (Like A Shark),,JAGJAGUWAR,0,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
 Car Seat Headrest,Gethsemane,,Matador,1,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
 Sade,The Sweetest Taboo,Promise,Epic,2,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
@@ -374,8 +414,6 @@ Naughty by Nature,O.P.P.,,Tommy Boy Records,26,Nick Grimshaw,Joy Crookes,2025-04
 Kae Tempest,Statue In The Square,,Island Records,27,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
 Joy Division,Disorder,,London,28,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
 Joy Crookes,I Know You'd Kill,,,29,Nick Grimshaw,Joy Crookes,2025-04-03T07:00:00+01:00
-The Smashing Pumpkins,1979,,HUT MUSIC,24,Nick Grimshaw,Bowen Yang,2025-04-15T07:00:00+01:00
-Cassius,Feeling For You,1999,Virgin,19,Nick Grimshaw,George MacKay,2025-04-08T07:00:00+01:00
 Caroline Polachek,Welcome To My Island,,Perpetual Novice,0,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-02T07:00:00+01:00
 Kae Tempest,Statue In The Square,,Island Records,1,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-02T07:00:00+01:00
 Boogie Down Productions,The Bridge Is Over,,B-Boy Records,2,Nick Grimshaw,"Guests, chat, and really good songs",2025-04-02T07:00:00+01:00

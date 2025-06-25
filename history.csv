@@ -1,6 +1,44 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
+Amy Winehouse,Back To Black,CD SINGLE,Island,0,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Loyle Carner,About Time,,Island EMI,1,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Bicep,Vale,,Ninja Tune,2,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Caolán Austin,"Joyful, Joyful",,Caolán Austin,3,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Elliott Smith,Miss Misery,XO (Deluxe Edition),Geffen,4,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Wednesday,Elderberry Wine,,Dead Oceans,5,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Waxahatchee,Bored,,ANTI-,6,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+The Futureheads,Radio Heart,CD SINGLE,NUL,7,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+The Fall,Victoria,,BEGGARS BANQUET,8,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+The SourceCandi Staton,You Got The LoveCandi Staton,,React,9,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Faithless,We Come 1,,Cheeky,10,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Hot Chip,I Feel Better,CD SINGLE,Parlophone,11,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+System of a Down,Toxicity,Toxicity,American Recordings,12,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Elbow,Grounds For Divorce,CD SINGLE,Fiction,13,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Bombay Bicycle Club,Shuffle,,Island,14,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Patti Jo,Make Me Believe In You,,Wand,15,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+The Human League,(Keep Feeling) Fascination,,Virgin,16,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Nia Archives,Baianá,,Island,17,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Primal Scream,Movin' On Up,,Dino,18,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Queens of the Stone Age,Go With The Flow,,Interscope,19,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Saint Etienne,Glad,,Heavenly,20,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+David ByrneBrian Carpenter’s Ghost Train Orchestra,Everybody LaughsBrian Carpenter’s Ghost Train Orchestra,,Matador,21,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Sade,Paradise,The Best Of Sade,Epic/Legacy,22,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Bon Iver,From,,Jagjaguwar,23,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Childish Gambino,This Is America,,RCA Records,24,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Yazmin Lacey,Ain't I Good For You,,AMF,25,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+The Temptations,Cloud Nine,,Tamla Motown,26,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Kae Tempest,Diagnoses,,,27,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Yard Act,Payday,,Zen FC / Island,28,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Jehnny Beth,Broken Rib,,Fiction Records,29,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Paul Simon,You Can Call Me Al,The Paul Simon Anthology  (Disc 2),Warner Bros,30,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+case/lang/veirs,Atomic Number,Case / Lang / Veirs,Anti/Epitaph,31,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Phoenix,Too Young,,SOURCE,32,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Turnstile,SEEIN' STARS,,Roadrunner Records,33,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Wet Leg,Davina McCall,moisturizer,,34,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Erika de Casier,Miss,,Independent Jeep Music,35,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Sudan Archives,DEAD,,Stones Throw,36,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
+Kerri Chandler,On My Way,On My Way,King Street Sounds,37,Nick Grimshaw,Alice Levine,2025-06-24T07:00:00+01:00
 Weezer,Buddy Holly,,Geffen,0,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
-HAIM,Lucky Stars,,Polydor,1,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
+HAIM,Lucky stars,,Polydor,1,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
 CommonPete Rock,Dreamin',,Loma Vista,2,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
 Gwenno,Y Gath,,Heavenly Recordings,3,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
 Nilüfer Yanya,In Your Head,,ATO Records,4,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
@@ -329,6 +367,8 @@ David ByrneBrian Carpenter’s Ghost Train Orchestra,Everybody LaughsBrian Carpe
 Ugly,Next To Die,,Ugly,33,Nick Grimshaw,Nick Frost,2025-06-11T07:00:00+01:00
 Viagra Boys,Waterboy,,Shrimptech Enterprises,34,Nick Grimshaw,Nick Frost,2025-06-11T07:00:00+01:00
 The Breeders,Huffer,Title TK,4AD,35,Nick Grimshaw,Nick Frost,2025-06-11T07:00:00+01:00
+HAIM,Lucky Stars,,Polydor,1,Nick Grimshaw,Will Sharpe,2025-06-23T07:00:00+01:00
+Kwes.,36,,Warp Records,6,Nick Grimshaw,Aaron Taylor-Johnson,2025-06-19T07:00:00+01:00
 ESG,Moody,,99,0,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 Sofia KourtesisDaphni,Unidos,,Ninja Tune,1,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 Michael Kiwanuka,The Rest Of Me,,Polydor,2,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
@@ -366,13 +406,11 @@ J. Caesar,Near Me,,J.Caesar,33,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:
 shame,Cutthroat,,Dead Oceans,34,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 CMAT,Take A Sexy Picture Of Me,,AWAL,35,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 DJ ShadowRun The Jewels,Nobody Speak,,Mass Appeal Records,36,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
-Kwes.,36,,Warp Records,6,Nick Grimshaw,Aaron Taylor-Johnson,2025-06-19T07:00:00+01:00
 CerroneRahim Redcar,Catching feelings,,Malligator Préférence,13,Nick Grimshaw,Aaron Taylor-Johnson,2025-06-19T07:00:00+01:00
 CerroneRahim Redcar,Catching feelings,,Malligator Préférence,1,Nick Grimshaw,Alisha Boe,2025-06-18T07:00:00+01:00
 CerroneRahim Redcar,Catching feelings,,Malligator Préférence,19,Nick Grimshaw,"Guests, chat, and really good songs",2025-06-16T07:00:00+01:00
 DJ Zinc,138 Trek,138 Trek,Phase:One,11,Nick Grimshaw,Lorde,2025-06-12T07:00:00+01:00
 CerroneRahim Redcar,Catching feelings,,Malligator Préférence,35,Nick Grimshaw,Lorde,2025-06-12T07:00:00+01:00
-ESG,Moody,,99,0,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 CerroneRahim Redcar,Catching feelings,,Malligator Préférence,4,Nick Grimshaw,Adam Curtis,2025-06-10T07:00:00+01:00
 Anderson .Paak,Bubblin,,Aftermath Records,0,Nick Grimshaw,Julianne Moore & Fiona Shaw,2025-06-09T07:00:00+01:00
 Little Simz,Thief,,AWAL,1,Nick Grimshaw,Julianne Moore & Fiona Shaw,2025-06-09T07:00:00+01:00

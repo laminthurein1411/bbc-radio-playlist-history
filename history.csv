@@ -23,7 +23,7 @@ The Temper Trap,Sweet Disposition,CD SINGLE,Infectious,20,Nick Grimshaw,6 Music'
 The Knife,Heartbeats,,Rabid / V2,21,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Doves,Catch The Sun,,Heavenly,22,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Soulwax,NY Lipps,Nite Versions,Universal Music Australia Pty. Ltd.,23,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
-Hercules & Love Affair,Blind,Hercules And Love Affair,EMI,24,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
+Hercules & Love Affair,Blind,,EMI,24,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Deftones,Minerva,Deftones,Maverick,25,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Skream,Midnight Request Line,Skream! (Expanded Edition),Tempa,26,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Pinch,Qawwali,10 Tons Heavy,Planet Mu,27,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
@@ -210,11 +210,11 @@ Mica Paris,Young Soul Rebels,Young Soul Rebels,Conscious Manifesto / Essential M
 The All Seeing I,Beat Goes On,,FFRR,22,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Missy Elliott,Supa Dupa Fly (The Rain),,Elektra,23,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Madonna,I'll Remember,Madonna - Something To Remember,Maverick,24,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
-CSS,Let's Make Love And Listen To Death From Above,CD SINGLE,,25,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+CSS,Let's Make Love And Listen To Death From Above,,,25,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Le Tigre,Deceptacon,,Wiiija Records,26,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
-JusticeSimian,We Are Your Friends,We Are Your Friends,[PIAS] Recordings Catalogue,27,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
-The Rapture,House Of Jealous Lovers,Echoes,DFA Records,28,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
-Hercules & Love Affair,Blind,Hercules And Love Affair,EMI,29,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+JusticeSimian,We Are Your Friends,,[PIAS] Recordings Catalogue,27,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+The Rapture,House Of Jealous Lovers,,DFA Records,28,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+Hercules & Love Affair,Blind,,EMI,29,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Radiohead,Just,,Polygram TV,30,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Nirvana,Come As You Are,,Geffen,31,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Dawn Penn,"You Don't Love Me (No, No, No)","YOU DON'T LOVE ME (NO, NO, NO)",Atlantic,32,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
@@ -336,7 +336,7 @@ Sassy 009,Someone,Dreamer+,PIAS,3,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00
 Air,All I Need,,Source Records,4,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 Melody’s Echo Chamber,The House That Doesn't Exist,,Domino,5,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 CMAT,"Aw, Shoot!",,CMATBABY,6,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
-CSS,Let's Make Love And Listen To Death From Above,CD SINGLE,,7,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
+CSS,Let's Make Love And Listen To Death From Above,,,7,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 Tori Amos,Professional Widow (It's Got To Be Big),,East West Records,8,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 Django Django,Default,,BECAUSE MUSIC,9,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 The La’s,Timeless Melody,,GO! DISCS,10,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
@@ -365,8 +365,14 @@ Parcels,Tieduprightnow,Parcels,Because Music,32,Nick Grimshaw,Toheeb Jimoh,2026-
 Smerz,You got time and I got money,,Escho,33,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 FAUZIA,The Way,,Local Action,34,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 Kerri Chandler,On My Way,On My Way,King Street Sounds,35,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
+Hercules & Love Affair,Blind,Hercules And Love Affair,EMI,24,Nick Grimshaw,6 Music's 00s Forever with Nick Grimshaw,2026-01-23T07:00:00+00:00
 Aphex Twin,4,Richard D. James Album,Warp Records,3,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+CSS,Let's Make Love And Listen To Death From Above,CD SINGLE,,25,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+JusticeSimian,We Are Your Friends,We Are Your Friends,[PIAS] Recordings Catalogue,27,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+The Rapture,House Of Jealous Lovers,Echoes,DFA Records,28,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
+Hercules & Love Affair,Blind,Hercules And Love Affair,EMI,29,Nick Grimshaw,6 Music's 90s Forever with Nick Grimshaw,2026-01-16T07:00:00+00:00
 Dr. DreEminem,Forgot About DreEminem,2001,Interscope Records,15,Nick Grimshaw,Arlo Parks and Very Specific Playlists,2026-01-14T07:00:00+00:00
+CSS,Let's Make Love And Listen To Death From Above,CD SINGLE,,7,Nick Grimshaw,Toheeb Jimoh,2026-01-12T07:00:00+00:00
 David Bowie,DJ,The Singles Collection,EMI,0,Nick Grimshaw,"David Bowie Forever: Ezra Furman, Charli xcx & Lady Gaga",2026-01-09T07:00:00+00:00
 Wolf Alice,The Sofa,,Columbia,1,Nick Grimshaw,"David Bowie Forever: Ezra Furman, Charli xcx & Lady Gaga",2026-01-09T07:00:00+00:00
 David Bowie,Sound And Vision,,EMI,2,Nick Grimshaw,"David Bowie Forever: Ezra Furman, Charli xcx & Lady Gaga",2026-01-09T07:00:00+00:00

@@ -1,4 +1,35 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
+A Tribe Called Quest,Check the Rhime,,Jive,0,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Massive Attack,Safe From Harm,,,1,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Orchestral Manoeuvres in the Dark,Sailing On The Seven Seas,OMD: The Singles,Virgin,2,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Slowdive,Catch The Breeze,,Creation,3,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+The SourceCandi Staton,You Got The LoveCandi Staton,,React,4,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Bizarre Inc,Playing With Knives,,Vinyl Solution ‎,5,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+AnthraxPublic Enemy,Bring Tha NoizePublic Enemy,Madhouse: The Very Best Of Anthrax,Island Records,6,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Nirvana,In Bloom,,DGC,7,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+PrinceThe New Power Generation,Gett Off,,Paisley Park/Warner Bros,8,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Dinosaur Jr.,The Wagon,,Warner Bros,9,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Blur,There's No Other Way,,Food,10,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+DJ Jazzy Jeff & the Fresh Prince,Summertime,,Jive,11,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Happy Mondays,Loose Fit,,Factory,12,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+The KLF,3 A.M. Eternal,,EMI,13,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Nine Inch Nails,Head Like A Hole,CD SINGLE,TVT Records,14,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+MK,Burning,Burning,Defected Records,15,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,16,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+LFO,LFO,,Warp,17,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Pulp,Countdown,,Fire Records,18,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Shades of Rhythm,Sound Of Eden,The Album,ZTT Records,19,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Rhythm on the Loose,Break Of Dawn,Break of Dawn EP,Network Records,20,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Siouxsie and the Banshees,Kiss Them For Me,KISS THEM FOR ME,Wonderland,21,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Xpansions,Move Your Body,Move Your Body (Elevation) - EP,Sony Music CG,22,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Massive Attack,One Love,,,23,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+DJ’s Rule,Get Into The Music,Serious EP,Hi-Bias Records Inc.,24,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Yo‐YoIce Cube,You Can't Play with My Yo-YoIce Cube,Make Way For The Motherlode,Rhino/Elektra,25,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Paris Angels,All On You (Perfume),,ISLAND,26,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Martika,Martika's Kitchen,The Divas Of Dance  (Various Artists),Telstar,27,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Queen Latifah,Latifah's Had It Up To Here,Nature Of A Sista',"Tommy Boy Music, LLC",28,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+The Fall,High Tension Line,Shift Work,Beggars Banquet,29,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
+Young Disciples,Apparently Nothin',,TALKIN' LOUD,30,Nick Grimshaw,6 Music’s Deep Dive into Massive Attack’s Blue Lines,2026-04-08T07:00:00+01:00
 Nina Simone,Save Me,The Essential Nina Simone Volume 2,Sony,0,Nick Grimshaw,Hugh Skinner,2026-04-07T07:00:00+01:00
 Pulp,Begging for Change,,War Child Records,1,Nick Grimshaw,Hugh Skinner,2026-04-07T07:00:00+01:00
 Tom Tom Club,Genius Of Love,,Island,2,Nick Grimshaw,Hugh Skinner,2026-04-07T07:00:00+01:00
@@ -344,6 +375,7 @@ pyncher,Louisa (6 Music Festival 2026),,,32,Nick Grimshaw,6 Music Festival: Wesl
 RIP Magic,5words,,DFA,33,Nick Grimshaw,6 Music Festival: Wesley Joseph & TTSSFU chat to Nick,2026-03-26T07:00:00+00:00
 Cardinals,St Agnes,,So Young,34,Nick Grimshaw,6 Music Festival: Wesley Joseph & TTSSFU chat to Nick,2026-03-26T07:00:00+00:00
 Aphex Twin,Xtal,Selected Ambient Works 8592,Apollo,35,Nick Grimshaw,6 Music Festival: Wesley Joseph & TTSSFU chat to Nick,2026-03-26T07:00:00+00:00
+ESG,Moody,,99,24,Nick Grimshaw,01/04/2026,2026-04-01T07:00:00+01:00
 James Blake,Make Something Up,,Good Boy Records,0,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
 Mk.gee,Are You Looking Up,,R&R Digital,1,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
 Geese,Au Pays du Cocaine,,Partisan Records / Play It Again Sam,2,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
@@ -381,7 +413,6 @@ Phoebe Bridgers,Motion Sickness,,Dead Oceans,33,Nick Grimshaw,6 Music Festival,2
 Pulp,Begging for Change,,War Child Records,34,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
 Chalk,Longer,,Alter Music,35,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
 Blood Orange,You're Not Good Enough,,DOMINO RECORDING CO LTD,36,Nick Grimshaw,6 Music Festival,2026-03-25T07:00:00+00:00
-ESG,Moody,,99,24,Nick Grimshaw,01/04/2026,2026-04-01T07:00:00+01:00
 TV on the Radio,Wolf Like Me,CD SINGLE,4 A.D.,0,Nick Grimshaw,"Guests, chat, and really good songs",2026-03-24T07:00:00+00:00
 Arlo Parks,Get Go,,Transgressive,1,Nick Grimshaw,"Guests, chat, and really good songs",2026-03-24T07:00:00+00:00
 Julia Jacklin,Head Alone,,Transgressive Records,2,Nick Grimshaw,"Guests, chat, and really good songs",2026-03-24T07:00:00+00:00

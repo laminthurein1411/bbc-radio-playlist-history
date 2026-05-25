@@ -1,41 +1,84 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
-Fuzzbox,Rules And Regulations,,Vindaloo,0,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Stereolab,Wow and Flutter,WOW AND FLUTTER,Duophonic,1,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Mike D,Switch Up,,Capitol Records,2,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Jill Scott,Gettin' In The Way (M J Cole remix),Gettin' In The Way (Single),Sony Music Distribution,3,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-corto.alto,THIEF,Single,Ninja Tune,4,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Mk.gee,Lonely Fight,Lonely Fight,R&R Digital,5,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Smerz,Spring summer,,Escho,6,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Cat PowerLana Del Rey,WomanLana Del Rey,,Domino,7,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Phoenix,1901,CD SINGLE,V2 / COOPERATIVE,8,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,9,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-DJ ZincMs. Dynamite,Wile OutMs. Dynamite,Wile Out,Bingo Bass,10,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Inner City,Big Fun,PARADISE,10 Records,11,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Two Door Cinema Club,Something Good Can Work,CD SINGLE,KITSUNE,12,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-The Postal Service,Such Great Heights,,Subpop,13,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Olof DreijerToya Delazy,MakwandeToya Delazy,,DH2,14,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Tame Impala,Dracula,,Columbia,15,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Orbital,Chime,,Warner,16,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-High Contrast,Racing Green,,,17,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Fontaines D.C.,Big,,Partisan Records,18,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-David Bowie,Modern Love,,EMI,19,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Altern 8,E-Vapor-8,Full On .. Mask Hysteria,Network Records,20,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-IZCO,Wonderluv,,Brownswood Recordings,21,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Neil Young,Heart Of Gold,Harvest,Reprise,22,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Beck,Ride Lonesome,,Island/EMI,23,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-ear,Ne Plus Ultra,,A24 Music,24,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Loose Joints,Is It All over My Face?,Pop Your Funk - Complete Singles Collection,West End Records,25,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Faux Real,That Far,That Far (Single),b4,26,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Father John Misty,The Payoff,,Sub Pop,27,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-BURNS,Talamanca,Talamanca,FFRR,28,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Genesis Owusu,LIFE KEEPS GOING,,Ourness,29,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-St. Panther,Highway,,,30,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Kim Gordon,PLAY ME,,Matador,31,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-James Blake,Death Of Love,,CMYK,32,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Jeshi,at the wheel,,Select Discs,33,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Opus Kink,Come Over Do Me Wrong,,SO Recordings,34,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Nick Hakim,Real Here Now,,,35,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Maribou StateHolly Walker,Nervous TicsHolly Walker,,Counter,36,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+The Breeders,Divine Hammer,,4 A.D.,0,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Bloc Party,Coming On Strong,,cOnTAGIOUS LTD,1,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Men I Trust,Lauren,,Men I Trust,2,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+O’FlynnSwordman Kitala,Sekete,,,3,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Nuyorican Soul,I Am The Black Gold Of The Sun (4 Hero mix),Nu Yorican Soul,Talkin' Loud,4,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+IZCO,Wonderluv,,Brownswood Recordings,5,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+"Tyler, The Creator",Sugar On My Tongue,,Columbia Records,6,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Franz Ferdinand,Take Me Out,,Domino,7,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Coi Leray,Players,,Republic Records,8,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Gat Décor,Passion,Passion,Effective Records,9,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Prince,I Could Never Take The Place Of Your Man,,Paisley Park/Warner Bros,10,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+SAULT,Son Shine,Untitled (Rise),Living Originals,11,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Bonobo,Flutter,,Ninja Tune ‎,12,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Little SimzJT,Game OnJT,,AWAL,13,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Mylo,In My Arms,,Breastfed Records,14,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Public Service Broadcasting,Go!,,Test Card Recordings,15,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Shy FX,This Style,,WEA/SOUR,16,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+The Knack,My Sharona,Fantastic 70's  (Various Artists),Sony Tv/Columbia,17,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Tame Impala,Let It Happen,,Fiction Records,18,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+1-800 GIRLS,there 4 u,,1-800 Girls,19,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Avalon EmersonThe Charm,Happy Birthday,,Dead Oceans,20,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Geese,100 Horses,,Partisan,21,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Mike D,Switch Up,,Capitol Records,22,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+King Krule,Biscuit Town,,XL Recordings,23,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Tirzah,I'm Not Dancing,I'm Not Dancing,Domino Recording Co,24,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Peaches,Whatcha Gonna Do About It,,Kill Rock Stars,25,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Jeshi,girls and boys,Single,Select Discs,26,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Garbage,Stupid Girl,,MUSHROOM,27,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Bleachers,the van,,Dirty Hit,28,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Loleatta Holloway,Love Sensation,Disco Delight: The Beat Goes On,Metro Select,29,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Daisybelle,Get It Right,,,30,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Thundercat,Them Changes,,Brainfeeder,31,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Smerz,Spring summer,,Escho,32,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+J Dilla,U-Love,Donuts,Stones Throw Records,33,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Leon Bridges,Peaceful Place,,Columbia,34,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Missy Elliott,Throw It Back,,Atlantic Records,35,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Jordan RakeiFemi Koleoso,It Never Ends,,Fontana,36,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Charli xcx,SS26,,Atlantic,37,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Karen Nyame KG,In My Room,,Black Acre,38,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+TOKiMONSTA,Joy Without Sound,,,39,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+BODEGA,Pick up the Check,,Chrysalis,40,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Blondie,Hanging On The Telephone,,Chrysalis,41,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Operator Please,Just A Song About Ping Pong,Yes Yes Vindictive,Virgin Records,42,Nick Grimshaw,Nemone sits in,2026-05-25T07:00:00+01:00
+Fuzzbox,Rules And Regulations,,Vindaloo,0,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Stereolab,Wow and Flutter,WOW AND FLUTTER,Duophonic,1,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Mike D,Switch Up,,Capitol Records,2,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Jill Scott,Gettin' In The Way (M J Cole remix),Gettin' In The Way (Single),Sony Music Distribution,3,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+corto.alto,THIEF,Single,Ninja Tune,4,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Mk.gee,Lonely Fight,Lonely Fight,R&R Digital,5,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Smerz,Spring summer,,Escho,6,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Cat PowerLana Del Rey,WomanLana Del Rey,,Domino,7,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Phoenix,1901,CD SINGLE,V2 / COOPERATIVE,8,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,9,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+DJ ZincMs. Dynamite,Wile OutMs. Dynamite,Wile Out,Bingo Bass,10,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Inner City,Big Fun,PARADISE,10 Records,11,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Two Door Cinema Club,Something Good Can Work,CD SINGLE,KITSUNE,12,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+The Postal Service,Such Great Heights,,Subpop,13,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Olof DreijerToya Delazy,MakwandeToya Delazy,,DH2,14,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Tame Impala,Dracula,,Columbia,15,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Orbital,Chime,,Warner,16,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+High Contrast,Racing Green,,,17,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Fontaines D.C.,Big,,Partisan Records,18,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+David Bowie,Modern Love,,EMI,19,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Altern 8,E-Vapor-8,Full On .. Mask Hysteria,Network Records,20,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+IZCO,Wonderluv,,Brownswood Recordings,21,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Neil Young,Heart Of Gold,Harvest,Reprise,22,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Beck,Ride Lonesome,,Island/EMI,23,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+ear,Ne Plus Ultra,,A24 Music,24,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Loose Joints,Is It All over My Face?,Pop Your Funk - Complete Singles Collection,West End Records,25,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Faux Real,That Far,That Far (Single),b4,26,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Father John Misty,The Payoff,,Sub Pop,27,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+BURNS,Talamanca,Talamanca,FFRR,28,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Genesis Owusu,LIFE KEEPS GOING,,Ourness,29,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+St. Panther,Highway,,,30,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Kim Gordon,PLAY ME,,Matador,31,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+James Blake,Death Of Love,,CMYK,32,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Jeshi,at the wheel,,Select Discs,33,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Opus Kink,Come Over Do Me Wrong,,SO Recordings,34,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Nick Hakim,Real Here Now,,,35,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
+Maribou StateHolly Walker,Nervous TicsHolly Walker,,Counter,36,Nick Grimshaw,Jodie Whittaker,2026-05-22T07:00:00+01:00
 Bombay Bicycle Club,"Eat, Sleep, Wake (Nothing But You)",,Mmm...Records via Caroline International/Island,0,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Aldous HardingH. Hawkline,Venus in the ZinniaH. Hawkline,,4AD,1,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Al Green,Sha La La,,BEECHWOOD,2,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
@@ -69,7 +112,7 @@ ROSALÍA,Focu 'Ranni,,Columbia,29,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:
 The Strokes,Last Nite,,Rough Trade Records,30,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Dua Saleh,Cállate,,Ghostly International,31,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Everything but the GirlSoul Vision,Tracey In My Room,,VC Recordings,32,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
-Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,33,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
+Avalon EmersonThe Charm,Happy Birthday,,Dead Oceans,33,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Ritchie,Pelo Interfone,,,34,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 aja monetMeshell NdegeocelloGeorgia Anne Muldrow,ElsewhereMeshell NdegeocelloGeorgia Anne Muldrow,,Drink sum wtr,35,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
 Alabama Shakes,American Dream,,Island,36,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
@@ -134,7 +177,7 @@ Aretha Franklin,Respect,,ATLANTIC,17,Nick Grimshaw,19/05/2026,2026-05-19T07:00:0
 The Smashing Pumpkins,Siva,,HUT MUSIC,18,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 Rilo Kiley,Portions For Foxes,,Brute/Beaute Records,19,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 Sade,Paradise,The Best Of Sade,Epic/Legacy,20,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
-Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,21,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
+Avalon EmersonThe Charm,Happy Birthday,,Dead Oceans,21,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 Sharon Van Etten,Comeback Kid,,Jagjaguar,22,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 Bloc Party,Coming On Strong,,cOnTAGIOUS LTD,23,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 Grace Jones,Pull Up To The Bumper,,Island,24,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
@@ -289,7 +332,7 @@ Kelis,Milkshake,,Virgin,15,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:
 Pet Shop Boys,Paninaro,Alternative,Parlophone UK,16,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 The Stills,Lola Stars And Stripes,,Vice,17,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 Orange Lemon,Dreams Of Santa Anna,The Hacienda Classics,Virgin/EMI,18,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
-Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,19,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
+Avalon EmersonThe Charm,Happy Birthday,,Dead Oceans,19,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 The xx,Dangerous,,Young Turks,20,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 ROSALÍA,Focu 'Ranni,,Columbia,21,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 Radiohead,High And Dry,Crush (Various Artists),Polygram Tv,22,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
@@ -344,6 +387,47 @@ Boards of Canada,Prophecy At 1420 MHz,,Warp,30,Nick Grimshaw,Bob Odenkirk,2026-0
 Tara Clerkin Trio,Somewhere Good,,World of Echo,31,Nick Grimshaw,Bob Odenkirk,2026-05-12T07:00:00+01:00
 Bleachers,the van,,Dirty Hit,32,Nick Grimshaw,Bob Odenkirk,2026-05-12T07:00:00+01:00
 Fun Boy Three,Our Lips Are Sealed,,Chrysalis,33,Nick Grimshaw,Bob Odenkirk,2026-05-12T07:00:00+01:00
+Fuzzbox,Rules And Regulations,,Vindaloo,0,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Stereolab,Wow and Flutter,WOW AND FLUTTER,Duophonic,1,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Mike D,Switch Up,,Capitol Records,2,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Jill Scott,Gettin' In The Way (M J Cole remix),Gettin' In The Way (Single),Sony Music Distribution,3,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+corto.alto,THIEF,Single,Ninja Tune,4,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Mk.gee,Lonely Fight,Lonely Fight,R&R Digital,5,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Smerz,Spring summer,,Escho,6,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Cat PowerLana Del Rey,WomanLana Del Rey,,Domino,7,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Phoenix,1901,CD SINGLE,V2 / COOPERATIVE,8,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,9,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+DJ ZincMs. Dynamite,Wile OutMs. Dynamite,Wile Out,Bingo Bass,10,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Inner City,Big Fun,PARADISE,10 Records,11,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Two Door Cinema Club,Something Good Can Work,CD SINGLE,KITSUNE,12,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+The Postal Service,Such Great Heights,,Subpop,13,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Olof DreijerToya Delazy,MakwandeToya Delazy,,DH2,14,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Tame Impala,Dracula,,Columbia,15,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Orbital,Chime,,Warner,16,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+High Contrast,Racing Green,,,17,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Fontaines D.C.,Big,,Partisan Records,18,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+David Bowie,Modern Love,,EMI,19,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Altern 8,E-Vapor-8,Full On .. Mask Hysteria,Network Records,20,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+IZCO,Wonderluv,,Brownswood Recordings,21,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Neil Young,Heart Of Gold,Harvest,Reprise,22,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Beck,Ride Lonesome,,Island/EMI,23,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+ear,Ne Plus Ultra,,A24 Music,24,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Loose Joints,Is It All over My Face?,Pop Your Funk - Complete Singles Collection,West End Records,25,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Faux Real,That Far,That Far (Single),b4,26,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Father John Misty,The Payoff,,Sub Pop,27,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+BURNS,Talamanca,Talamanca,FFRR,28,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Genesis Owusu,LIFE KEEPS GOING,,Ourness,29,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+St. Panther,Highway,,,30,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Kim Gordon,PLAY ME,,Matador,31,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+James Blake,Death Of Love,,CMYK,32,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Jeshi,at the wheel,,Select Discs,33,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Opus Kink,Come Over Do Me Wrong,,SO Recordings,34,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Nick Hakim,Real Here Now,,,35,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Maribou StateHolly Walker,Nervous TicsHolly Walker,,Counter,36,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
+Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,33,Nick Grimshaw,Antonia Thomas,2026-05-21T07:00:00+01:00
+Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,21,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
+Geese,2122,,Partisan,39,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
+Avalon Emersonthe Charm,Happy Birthday,,Dead Oceans,19,Nick Grimshaw,Jessica Gunning,2026-05-13T07:00:00+01:00
 Armand van HeldenDuane Harden,You Don't Know MeDuane Harden,(CD Single),FFRR,0,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
 Honey DijonJacob Lusk,SatisfiedJacob Lusk,,SOS,1,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
 Bush Tetras,Too Many Creeps,,ROIR,2,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
@@ -384,8 +468,6 @@ Jeshi,at the wheel,,Select Discs,36,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00
 Man/Woman/Chainsaw,Nosedive,,Fiction Records,37,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
 ESG,My Love For You,Come Away With ESG,99 Records,38,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
 Mac DeMarco,Holy,,Mac’s Record Label,39,Nick Grimshaw,11/05/2026,2026-05-11T07:00:00+01:00
-Phoenix,1901,CD SINGLE,V2 / COOPERATIVE,8,Nick Grimshaw,22/05/2026,2026-05-22T07:00:00+01:00
-Geese,2122,,Partisan,39,Nick Grimshaw,19/05/2026,2026-05-19T07:00:00+01:00
 M83,Reunion,,Naive,0,Nick Grimshaw,Jinkx Monsoon,2026-05-08T07:00:00+01:00
 Courtney Barnett,One Thing At A Time,,Fiction,1,Nick Grimshaw,Jinkx Monsoon,2026-05-08T07:00:00+01:00
 Public Enemy,Brothers Gonna Work It Out,Fear Of A Black Planet,Def Jam Recordings,2,Nick Grimshaw,Jinkx Monsoon,2026-05-08T07:00:00+01:00

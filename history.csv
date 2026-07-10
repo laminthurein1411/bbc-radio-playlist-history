@@ -1,36 +1,79 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
-Bob Marley & The Wailers,Waiting In Vain,,Tuff Gong,0,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Nia Archives,Vertical,,Up Ya Archives,1,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Thom Yorke,Analyse,THE ERASER,XL,2,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-beabadoobee,Sun Has Set,,Dirty Hit,3,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-This Is Lorelei,Billy Came Back,,Matador,4,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Raphael SaadiqQ‐Tip,Get Involved,,Hollywood Records,5,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Josh Caffe,Limousine,,dh2,6,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Roses Gabor,Rush,,Girls Music,7,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Rhye,The Fall,,Polydor,8,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Yard Act,New Beginnings,,Island / EMI,9,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Gossip,Love Long Distance,,Columbia / Sony Music,10,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-corto.altoVector,GOVector,,Ninja Tune,11,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Pa SalieuMahalia,EnergyMahalia,,Warner Records,12,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Maxïmo Park,Our Velocity,,Warp,13,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-The Clash,I Fought The Law,,Columbia,14,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Tame Impala,Let It Happen,,Fiction Records,15,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Run‐D.M.C.,It's Tricky,,London,16,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Pixies,Debaser,,4 A.D.,17,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Everything but the GirlSoul Vision,Tracey In My Room,,VC Recordings,18,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Jack White,Dollar Bill,,Third Man,19,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Daft Punk,Da Funk,,Virgin,20,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Fontaines D.C.,A Hero's Death (Soulwax Remix),A Hero's Death (Soulwax Remix),Partisan Records,21,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Echo & the Bunnymen,Bring On The Dancing Horses,,Korova,22,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Ezra Collective,Ajala,,Partisan,23,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Blondie,Heart Of Glass,Billboard Top Hits: 1979  (Various),Rhino,24,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Sorry,Today Might Be The Hit,,Domino,25,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Kurt Vile,Zoom 97,,Verve,26,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-The Velvet UndergroundNico,Femme Fatale,,Verve,27,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Tricky,I'm Yours,,False Idols,28,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-SL2,Way In My Brain,,XL Recordings,29,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Steve Lacy,the feeling,,RCA Records,30,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Erykah Badu,Real Thang,,Universal Motown,31,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Josh Caffe,Limousine,,dh2,0,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Lip Critic,Legs In A Snare,,Partisan Records,1,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Kim Gordon,Not Today,,Matador,2,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Ezra CollectiveLila Iké,Well OrganisedLila Iké,,,3,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Steve Lacy,the feeling,,RCA Records,4,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+AlewyaDagmawit Ameha,Night DriveDagmawit Ameha,,Because London,5,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+A. Chal,CHOLOGANTE,,GAZI WORLD INC.,6,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Kelela,idea 1,,Warp,7,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Vince Staples,White Flag,,Loma Vista,8,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Jill ScottTierra Whack,Norf SideTierra Whack,,Blues Babe Records,9,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Wesley JosephDanny Brown,Peace Of MindDanny Brown,,Secretly Canadian,10,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+L’Rain,soulless cycle,,Mexican Summer,11,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Karen Nyame KG,In My Room,,Black Acre,12,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+"Mandy, Indiana",try saying,,Sacred Bones,13,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Iceage,Star,,Mexican Summer,14,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Lauren Auder,praxis,,Untitled Records,15,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Flying Lotus,ANTELOPE ONIGIRI,,,16,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Of the TreesEarthGang,Look Into My EyesEarthGang,,Memory Palace,17,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Jeshi,at the wheel,,Select Discs,18,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Nia Archives,Danger,,Island,19,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+O’FlynnSwordman Kitala,Sekete,,,20,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+ThundercatA$AP Rocky,Funny FriendsA$AP Rocky,,Brainfeeder,21,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Soulwax,Perfect We Are Not,,Deewee,22,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Peaches,Whatcha Gonna Do About It,,Kill Rock Stars,23,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Fat Dog,Go Love Urself,,Domino,24,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Gelli Haha,Klouds Will Carry Me To Sleep,Klouds Will Carry Me To Sleep,Innovative Leisure,25,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Chinese American Bear,All The People (所有人),,,26,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Denzel CurryTiaCorineA$AP Ferg,THE SCYTHETiaCorineA$AP Ferg,,Loma Vista,27,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Robyn,Sexistential,,Konnichiwa / Young,28,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+The Strokes,Going Shopping,,Cult Records/RCA Records,29,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Honey DijonJacob Lusk,SatisfiedJacob Lusk,,SOS,30,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Way Dynamic,Miffed It,,Jagjaguwar,31,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Eliza,Anyone Else,,Log Off Records,32,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Alex Cameron,Red Hook Rain,,Alex Cameron,33,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Rostam,Like a Spark,,Matsor Projects,34,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+The Durutti Column,Liars,,London Records,35,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+corto.altoMick Jenkins,WHODISMick Jenkins,,Ninja Tune,36,Nick Grimshaw,"New Music Fix Friday: Jeshi and Mandy, Indiana",2026-07-10T07:00:00+01:00
+Erykah Badu,Real Thang,,Universal Motown,0,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Steve Lacy,the feeling,,RCA Records,1,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+SL2,Way In My Brain,,XL Recordings,2,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Tricky,I'm Yours,,False Idols,3,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+The Velvet UndergroundNico,Femme Fatale,,Verve,4,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Kurt Vile,Zoom 97,,Verve,5,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Sorry,Today Might Be The Hit,,Domino,6,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Blondie,Heart Of Glass,Billboard Top Hits: 1979  (Various),Rhino,7,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Ezra Collective,Ajala,,Partisan,8,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Echo & the Bunnymen,Bring On The Dancing Horses,,Korova,9,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Fontaines D.C.,A Hero's Death (Soulwax Remix),A Hero's Death (Soulwax Remix),Partisan Records,10,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Daft Punk,Da Funk,,Virgin,11,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Jack White,Dollar Bill,,Third Man,12,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Everything but the GirlSoul Vision,Tracey In My Room,,VC Recordings,13,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Pixies,Debaser,,4 A.D.,14,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Run‐D.M.C.,It's Tricky,,London,15,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Tame Impala,Let It Happen,,Fiction Records,16,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+The Clash,I Fought The Law,,Columbia,17,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Maxïmo Park,Our Velocity,,Warp,18,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Pa SalieuMahalia,EnergyMahalia,,Warner Records,19,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+corto.altoVector,GOVector,,Ninja Tune,20,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Gossip,Love Long Distance,,Columbia / Sony Music,21,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Yard Act,New Beginnings,,Island / EMI,22,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Rhye,The Fall,,Polydor,23,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Roses Gabor,Rush,,Girls Music,24,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Josh Caffe,Limousine,,dh2,25,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Raphael SaadiqQ‐Tip,Get Involved,,Hollywood Records,26,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+This Is Lorelei,Billy Came Back,,Matador,27,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+beabadoobee,Sun Has Set,,Dirty Hit,28,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Thom Yorke,Analyse,THE ERASER,XL,29,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Nia Archives,Vertical,,Up Ya Archives,30,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Bob Marley & The Wailers,Waiting In Vain,,Tuff Gong,31,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Wu-LuPoison Anna,New Park,,Warp Records,32,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Show Me the Body,Dance In the USA - 6 Music Session - RX 17/06/2026,,,33,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Sophia Stel,In the Club,,A24 Music,34,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Fathers,PEARL,,Blue Note,35,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Iceage,The Weak,,Mexican Summer,36,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Girlpool,Before the World Was Big,Before the World Was Big,Wichita Recordings,37,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 Depeche Mode,Master And Servant,,Mute Records,0,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
 Mike D,What We Got,,Capitol Records,1,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
 ROSALÍA,SAOKO,,Columbia,2,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
@@ -329,6 +372,38 @@ Foo Fighters,Wind Up,The Colour And The Shape,RCA Records Label,33,Nick Grimshaw
 UNIIQU3,Mile High Club,,Local Action,34,Nick Grimshaw,Peggy Gou,2026-06-29T07:00:00+01:00
 HAAiPat Alvarez,DIGITiSE,,Mute,35,Nick Grimshaw,Peggy Gou,2026-06-29T07:00:00+01:00
 Angine de Poitrine,Sarniezz,,Angine de Poitrine,36,Nick Grimshaw,Peggy Gou,2026-06-29T07:00:00+01:00
+Bob Marley & The Wailers,Waiting In Vain,,Tuff Gong,0,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Nia Archives,Vertical,,Up Ya Archives,1,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Thom Yorke,Analyse,THE ERASER,XL,2,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+beabadoobee,Sun Has Set,,Dirty Hit,3,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+This Is Lorelei,Billy Came Back,,Matador,4,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Raphael SaadiqQ‐Tip,Get Involved,,Hollywood Records,5,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Josh Caffe,Limousine,,dh2,6,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Roses Gabor,Rush,,Girls Music,7,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Rhye,The Fall,,Polydor,8,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Yard Act,New Beginnings,,Island / EMI,9,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Gossip,Love Long Distance,,Columbia / Sony Music,10,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+corto.altoVector,GOVector,,Ninja Tune,11,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Pa SalieuMahalia,EnergyMahalia,,Warner Records,12,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Maxïmo Park,Our Velocity,,Warp,13,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+The Clash,I Fought The Law,,Columbia,14,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Tame Impala,Let It Happen,,Fiction Records,15,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Run‐D.M.C.,It's Tricky,,London,16,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Pixies,Debaser,,4 A.D.,17,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Everything but the GirlSoul Vision,Tracey In My Room,,VC Recordings,18,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Jack White,Dollar Bill,,Third Man,19,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Daft Punk,Da Funk,,Virgin,20,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Fontaines D.C.,A Hero's Death (Soulwax Remix),A Hero's Death (Soulwax Remix),Partisan Records,21,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Echo & the Bunnymen,Bring On The Dancing Horses,,Korova,22,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Ezra Collective,Ajala,,Partisan,23,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Blondie,Heart Of Glass,Billboard Top Hits: 1979  (Various),Rhino,24,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Sorry,Today Might Be The Hit,,Domino,25,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Kurt Vile,Zoom 97,,Verve,26,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+The Velvet UndergroundNico,Femme Fatale,,Verve,27,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Tricky,I'm Yours,,False Idols,28,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+SL2,Way In My Brain,,XL Recordings,29,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Steve Lacy,the feeling,,RCA Records,30,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
+Erykah Badu,Real Thang,,Universal Motown,31,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 Wu-LuPoison Anna,New Park,,Warp Records,0,Nick Grimshaw,Charli xcx co-hosts,2026-06-26T09:00:00+01:00
 Charli xcx,Von dutch,,Atlantic,1,Nick Grimshaw,Charli xcx co-hosts,2026-06-26T09:00:00+01:00
 Madonna,Hollywood,(CD Single),Maverick,2,Nick Grimshaw,Charli xcx co-hosts,2026-06-26T09:00:00+01:00

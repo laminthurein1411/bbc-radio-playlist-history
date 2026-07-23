@@ -1,35 +1,86 @@
 artist,title,album,recordLabel,sequence,programTitle,episodeTitle,episodeTimestamp
-Beck,In The Night,,Iliad / Capitol,0,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-The Strokes,Hard To Explain,,Rough Trade Records,1,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Fontaines D.C.,Too Real,,Partisan Records,2,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Blondie,Atomic,,Chrysalis,3,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Julia Holter,Fantasy,,Domino Recording Co,4,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Daniel AverySHERELLE,HigherSHERELLE,,Phantasy Sound,5,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Tierra Whack,SIREN,,Interscope,6,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Marie Davidson,Work It (Soulwax Remix),,Ninja Tune,7,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Alewya,Maktoub,,Because London,8,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Foals,Mountain At My Gates,,Warners,9,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Interpol,See Out Loud,,Partisan Records,10,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Bicep,Apricots,,Ninja Tune,11,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-James,Sit Down,,Fontana,12,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Missy Elliott,We Run This,,Atlantic,13,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-The Smiths,Panic,The Sound Of The Smiths,Rhino,14,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Caribou,Odessa,CD SINGLE,CITY SLANG,0,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Mike D,What We Got,,Capitol Records,1,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+BlazeBarbara Tucker,Most Precious LoveBarbara Tucker,De Maxx Long Player 27,Universal Music S.A.,2,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Bonobo,Drift,,Ninja Tune,3,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+TV on the Radio,Dancing Choose,CD SINGLE,4 A.D.,4,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Walt Disco,Coup de foudre,,EMI North,5,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+The Creatures,Right Now,,Polydor,6,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Archie Bell & the Drells,Here I Go Again,The Best Northern Soul All-Nighter (V,Virgin,7,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Roy Davis Jr.Peven Everett,GabrielPeven Everett,,Large Records,8,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Empire of the Sun,We Are The People,CD SINGLE,VIRGIN,9,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Lykke Li,I Follow Rivers,,LL Recordings,10,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Marshall JeffersonSolardo,Move Your Body,,Trax,11,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+KH,Looking At Your Pager,,Three Six Zero Recordings,12,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+The Isley Brothers,It's A Disco Night (Rock Don't Stop),Let's Groove Again  (Various Artists),Sony Music TV,13,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Nia Archives,Vertical,,Up Ya Archives,14,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+The Vines,Get Free,,Heavenly,15,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Unlimited Touch,I Hear Music In the Streets,,Prelude Records,16,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Pulp,Spike Island,,Rough Trade,17,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Lizzo,Juice,,Atlantic,18,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Wet Leg,catch these fists,,Domino,19,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Salt‐N‐Pepa,Shoop,,FFRR,20,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+The Chemical Brothers,Swoon,,PARLOPHONE,21,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Fat Dog,Cancel Me (I'm Tired),,Domino,22,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Stevie Wonder,Another Star,,Motown,23,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Ezra CollectiveLila Iké,Well OrganisedLila Iké,,Partisan,24,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Sonic Youth,Silver Rocket,,Enigma/Blast First,25,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Show Me the Body,Do What's Right (Happy),,Loma Vista,26,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Doechii,Nosebleeds,,Polydor,27,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Wu-Tang Clan,C.R.E.A.M.,Enter The Wu-Tang (36 Chambers),RCA,28,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Teenage Fanclub,Day In The Sun,Do Not Dare To Dream,Merge Records,29,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+The Wannadies,Hit,,Indolent,30,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Phoebe Bridgers,Lost Boys,,Dead Oceans,31,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+DJ Koze,I Haven't Been Everywhere But It's On My List,,K7 Music GmbH,32,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Son Lux,Want You To Love,,City Slang,33,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Aretha Franklin,See Saw,,Atlantic,34,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Danger MouseBlack ThoughtMF DOOM,BelizeMF DOOM,,BMG,35,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+KelelaA. K. Paul,outta timeA. K. Paul,,Warp,36,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Mac DeMarco,The Way You'd Love Her,,Captured Tracks,37,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Peaches,Lose You,I Feel Cream,XL Recordings,38,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Robyn,Sucker For Love,,Konichiwa / Young,39,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Makeshift Art Bar,"Chocolate (6 Music Session, 21 July 2026)",,,40,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Tara Clerkin Trio,Silently,,World Of Echo,41,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+UNIIQU3,Mile High Club,,Local Action,42,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+CajmereDajaé,Brighter DaysDajaé,,Dajae,43,Nick Grimshaw,Nemone sits in,2026-07-23T07:00:00+01:00
+Gorillaz,Clint Eastwood,,Now,0,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+James Blake,I Had a Dream She Took My Hand,,GOOD BOY RECORDS,1,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Sounds of Blackness,Optimistic,(CD Single),Perspective,2,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+GoldieNatalie Williams,Jungle DazeNatalie Williams,,Goldie Inc Ltd.,3,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Warpaint,New Song,,Rough Trade,4,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+This Is Lorelei,Billy Came Back,,Matador,5,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Lou Reed,Vicious,,RCA,6,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Björk,Human Behaviour,,One Little Indian,7,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+JusticeSimian,We Are Your Friends,CD SINGLE,Ten Records,8,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Bombay Bicycle Club,Shuffle,,Island,9,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Patrice Rushen,Haven't You Heard,,Elektra Records,10,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Streets,Let's Push Things Forward,,Lockedon,11,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Violent Femmes,Blister In The Sun,,Slash/London,12,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Big Moon,Gravity,,Fiction,13,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Maccabees,Pelican,,Fiction,14,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
 Gossip,Standing In The Way Of Control,,Back Yard Recordings,15,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-The Maccabees,Pelican,,Fiction,16,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-The Big Moon,Gravity,,Fiction,17,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Violent Femmes,Blister In The Sun,,Slash/London,18,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-The Streets,Let's Push Things Forward,,Lockedon,19,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Patrice Rushen,Haven't You Heard,,Elektra Records,20,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Bombay Bicycle Club,Shuffle,,Island,21,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-JusticeSimian,We Are Your Friends,CD SINGLE,Ten Records,22,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Björk,Human Behaviour,,One Little Indian,23,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Lou Reed,Vicious,,RCA,24,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-This Is Lorelei,Billy Came Back,,Matador,25,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Warpaint,New Song,,Rough Trade,26,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-GoldieNatalie Williams,Jungle DazeNatalie Williams,,Goldie Inc Ltd.,27,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Sounds of Blackness,Optimistic,(CD Single),Perspective,28,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-James Blake,I Had a Dream She Took My Hand,,GOOD BOY RECORDS,29,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
-Gorillaz,Clint Eastwood,,Now,30,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Smiths,Panic,The Sound Of The Smiths,Rhino,16,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Missy Elliott,We Run This,,Atlantic,17,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+James,Sit Down,,Fontana,18,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Bicep,Apricots,,Ninja Tune,19,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Interpol,See Out Loud,,Partisan Records,20,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Foals,Mountain At My Gates,,Warners,21,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Alewya,Maktoub,,Because London,22,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Marie Davidson,Work It (Soulwax Remix),,Ninja Tune,23,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Tierra Whack,SIREN,,Interscope,24,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Daniel AverySHERELLE,HigherSHERELLE,,Phantasy Sound,25,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Julia Holter,Fantasy,,Domino Recording Co,26,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Blondie,Atomic,,Chrysalis,27,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Fontaines D.C.,Too Real,,Partisan Records,28,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Strokes,Hard To Explain,,Rough Trade Records,29,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Beck,In The Night,,Iliad / Capitol,30,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Cribs,Moving Pictures,CD SINGLE,Wichita,31,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+beabadoobee,Sun Has Set,,Dirty Hit,32,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Yard Act,"You're Gonna Need A Little Music (6 Music Session, 20 July 2026)",,,33,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+SurusingheWarrior Queen,Party CriminalWarrior Queen,,dh2,34,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Hermanos Gutiérrez,Los Ojos Del Condor,,,35,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Charli xcx,Wink Wink,,Atlantic,36,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Orange Juice,I Can't Help Myself,,Polydor,37,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
 Prince,I Wanna Be Your Lover,Prince - The Very Best Of,Warner Bros,0,Nick Grimshaw,Nemone sits in with guest Nadine Shah,2026-07-21T07:00:00+01:00
 Ezra CollectiveLila Iké,Well OrganisedLila Iké,,Partisan,1,Nick Grimshaw,Nemone sits in with guest Nadine Shah,2026-07-21T07:00:00+01:00
 Lucy Dacus,Brando,,Matador Records,2,Nick Grimshaw,Nemone sits in with guest Nadine Shah,2026-07-21T07:00:00+01:00
@@ -161,7 +212,7 @@ tUnE-yArDs,Water Fountain,Nikki Nakk,4AD,8,Nick Grimshaw,Nemone sits in,2026-07-
 dead prez,Hip Hop,,Epic,9,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 Public Enemy,Fight The Power,The No.1 Rap Album,Polygram Tv,10,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 EMF,Unbelievable,,Chrysalis,11,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
-K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,12,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
+K‐Klass,Rhythm Is A Mystery,,Now,12,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 Fat Dog,Cancel Me (I'm Tired),,Domino,13,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 Salt‐N‐Pepa,Push It,,Now,14,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 Baloji,Spoiler,,Bella Union,15,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
@@ -358,6 +409,39 @@ Josh Caffe,Limousine,,dh2,36,Nick Grimshaw,"New Music Fix Friday: Mandy, Indiana
 Altın Gün,Zülüf Dökülmüş Yüze,,,37,Nick Grimshaw,"New Music Fix Friday: Mandy, Indiana",2026-07-10T07:00:00+01:00
 KAVARI,IRON VEINS,,XL Recordings,38,Nick Grimshaw,"New Music Fix Friday: Mandy, Indiana",2026-07-10T07:00:00+01:00
 Film Noir,Viens Tiens Toi,,S76,39,Nick Grimshaw,"New Music Fix Friday: Mandy, Indiana",2026-07-10T07:00:00+01:00
+Beck,In The Night,,Iliad / Capitol,0,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Strokes,Hard To Explain,,Rough Trade Records,1,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Fontaines D.C.,Too Real,,Partisan Records,2,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Blondie,Atomic,,Chrysalis,3,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Julia Holter,Fantasy,,Domino Recording Co,4,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Daniel AverySHERELLE,HigherSHERELLE,,Phantasy Sound,5,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Tierra Whack,SIREN,,Interscope,6,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Marie Davidson,Work It (Soulwax Remix),,Ninja Tune,7,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Alewya,Maktoub,,Because London,8,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Foals,Mountain At My Gates,,Warners,9,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Interpol,See Out Loud,,Partisan Records,10,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Bicep,Apricots,,Ninja Tune,11,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+James,Sit Down,,Fontana,12,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Missy Elliott,We Run This,,Atlantic,13,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Smiths,Panic,The Sound Of The Smiths,Rhino,14,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Maccabees,Pelican,,Fiction,16,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Big Moon,Gravity,,Fiction,17,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Violent Femmes,Blister In The Sun,,Slash/London,18,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+The Streets,Let's Push Things Forward,,Lockedon,19,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Patrice Rushen,Haven't You Heard,,Elektra Records,20,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Bombay Bicycle Club,Shuffle,,Island,21,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+JusticeSimian,We Are Your Friends,CD SINGLE,Ten Records,22,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Björk,Human Behaviour,,One Little Indian,23,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Lou Reed,Vicious,,RCA,24,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+This Is Lorelei,Billy Came Back,,Matador,25,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Warpaint,New Song,,Rough Trade,26,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+GoldieNatalie Williams,Jungle DazeNatalie Williams,,Goldie Inc Ltd.,27,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Sounds of Blackness,Optimistic,(CD Single),Perspective,28,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+James Blake,I Had a Dream She Took My Hand,,GOOD BOY RECORDS,29,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Gorillaz,Clint Eastwood,,Now,30,Nick Grimshaw,Nemone sits in with guests Steve Lamacq and Felix White,2026-07-22T07:00:00+01:00
+Cassius,Feeling For You,1999,Virgin,15,Nick Grimshaw,Nemone sits in with guest Nadine Shah,2026-07-21T07:00:00+01:00
+Feist,1234,CD SINGLE,POLYDOR,26,Nick Grimshaw,Nemone sits in,2026-07-17T07:00:00+01:00
+K‐Klass,Rhythm Is A Mystery,Now 1991 - The Millennium Series,Now,12,Nick Grimshaw,Nemone sits in,2026-07-16T07:00:00+01:00
 Erykah Badu,Real Thang,,Universal Motown,0,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 Steve Lacy,the feeling,,RCA Records,1,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 SL2,Way In My Brain,,XL Recordings,2,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
@@ -396,8 +480,6 @@ Sophia Stel,In the Club,,A24 Music,34,Nick Grimshaw,Christopher Nolan,2026-07-09
 Fathers,PEARL,,Blue Note,35,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 Iceage,The Weak,,Mexican Summer,36,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
 Girlpool,Before the World Was Big,Before the World Was Big,Wichita Recordings,37,Nick Grimshaw,Christopher Nolan,2026-07-09T07:00:00+01:00
-Cassius,Feeling For You,1999,Virgin,15,Nick Grimshaw,Nemone sits in with guest Nadine Shah,2026-07-21T07:00:00+01:00
-Feist,1234,CD SINGLE,POLYDOR,26,Nick Grimshaw,Nemone sits in,2026-07-17T07:00:00+01:00
 Depeche Mode,Master And Servant,,Mute Records,0,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
 Mike D,What We Got,,Capitol Records,1,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
 ROSALÍA,SAOKO,,Columbia,2,Nick Grimshaw,David Sedaris,2026-07-08T07:00:00+01:00
